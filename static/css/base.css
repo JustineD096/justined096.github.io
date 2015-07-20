@@ -1,0 +1,54 @@
+.navbar-custom{
+	background-color: #483D8B;
+}
+.navbar-brand, .navbar-brand:hover, .navbar-custom .navbar-nav > li > a {
+	color: #fff;
+	font-family: "Leelawadee UI";
+
+}
+.navbar-custom .navbar-nav > li > a:hover, .navbar-custom .navbar-nav > li > a:focus {
+	background-color: #483D8B;
+	color: #D8BFD8;
+	font-family: "Leelawadee UI";
+}
+.jumbotron{
+	background-color: #fff;
+	font-family: "Leelawadee UI";
+	text-align: center;
+	margin-bottom: 0;
+}
+.footer{
+	background-color: #483D8B;
+	color: #fff;
+	height: 45px;
+	font-family: "Leelawadee UI";
+	padding-top: 10px;
+}
+#section1, #section2, #section3, #section4 {
+	background-color: #fff;
+	font-family: "Leelawadee UI";
+	text-align: center;
+}
+#divider1, #divider2, #divider3, #divider4{
+	color: #fff;
+}
+#jumboheader, #header1, #header2, #header3, #header4{
+	border-bottom: 1px solid #ccc;
+	color: #483D8B;
+}
+#jumbobody{
+	padding-top: 10px;
+}
+#jumbobody2, #body2, #body3, #emailsection{
+	padding-top:30px;
+}
+#body1{
+	padding-top: 20px;
+}
+#body4{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+#body4-1{
+	padding-right: 100px;
+}	
